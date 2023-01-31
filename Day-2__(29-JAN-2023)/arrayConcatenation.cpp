@@ -1,3 +1,6 @@
+// #Problem-Link: https://leetcode.com/problems/concatenation-of-array/description/
+// #Platform-Name: LeetCode
+
 #include<bits/stdc++.h>
 using namespace std;
 
