@@ -3,13 +3,14 @@ using namespace std;
 
 int main(){
     int arr[6] = {0,2,1,5,3,4};
+    int n = 6; //size of given array
 
     int ans[6];
-    for(int i=0; i<6; i++){
+    for(int i=0; i<n; i++){
         ans[i] = arr[arr[i]];
     }
 
-    for(int i=0; i<6; i++){
+    for(int i=0; i<n; i++){
         cout << ans[i] << " ";
     }
 
