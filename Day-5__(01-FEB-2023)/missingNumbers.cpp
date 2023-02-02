@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int nums[9] = {9,6,4,2,3,5,7,0,1};
-    int n = 9;
+    int n = 9; //size of given array
 
     int sumOfLength = 0;
     sumOfLength = (n*(n+1))/2; // using formula of sum of natural numbers
