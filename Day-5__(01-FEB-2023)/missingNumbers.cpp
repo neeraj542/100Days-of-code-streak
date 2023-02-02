@@ -6,11 +6,11 @@ int main(){
     int n = 9;
 
     int sumOfLength = 0;
-    sumOfLength = (n*(n+1))/2;
+    sumOfLength = (n*(n+1))/2; // using formula of sum of natural numbers
 
     int total = 0;
     for(int i=0; i<n; i++){
-        total = total + nums[i];
+        total = total + nums[i]; // calculating total of given values in array
     }
 
     cout << (sumOfLength-total);
