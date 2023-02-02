@@ -6,7 +6,7 @@ public:
         for(int i=0; i<size; i++){
             ans[i] = nums[nums[i]];
         }
-        vector<int> ansvector(ans, ans+size);
+        vector<int> ansvector(ans, ans+size); //data transfer from array to vector
         return ansvector;
     }
 };
