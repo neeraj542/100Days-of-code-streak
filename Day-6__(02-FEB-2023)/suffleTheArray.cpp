@@ -1,4 +1,4 @@
-Platform Name: LeetCode
+// Platform Name: LeetCode
 // Problem Number: 1470. Shuffle the Array
 // Problem Link: https://leetcode.com/problems/shuffle-the-array/
 #include<bits/stdc++.h>
