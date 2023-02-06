@@ -1,3 +1,6 @@
+//try.cpp 
+// created for just try to practice and used as rough page
+
 class Solution {
 public:
     vector<int> buildArray(vector<int>& nums) {
