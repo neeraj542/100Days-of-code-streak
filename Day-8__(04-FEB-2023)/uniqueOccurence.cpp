@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//commenting this..
+//commenting this repo..
 
 int main()
 {
