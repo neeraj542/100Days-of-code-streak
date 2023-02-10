@@ -1,3 +1,7 @@
+Problem-Level:
+Problem-Link:
+Platform-Name: LeetCode
+
 #include <bits/stdc++.h>
 using namespace std;
 
