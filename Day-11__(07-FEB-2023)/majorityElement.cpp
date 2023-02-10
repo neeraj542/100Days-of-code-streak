@@ -1,4 +1,4 @@
-Problem-Level:
+// Problem-Level: Easy
 // Problem-Link:
 // Platform-Name: LeetCode
 
