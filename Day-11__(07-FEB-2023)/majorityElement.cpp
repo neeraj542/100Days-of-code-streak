@@ -17,8 +17,8 @@ int main()
             
             count = nums[(size-1)/2];
         }
-
         // return count;
         cout << count << endl;
+        
     return 0;
 }
