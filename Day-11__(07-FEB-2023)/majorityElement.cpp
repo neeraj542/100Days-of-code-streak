@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {   
-        vector<int> nums= {2,2,1,1,1,2,2};
+        vector<int> nums= {2,2,1,1,1,2,2}; //vector storing some values
         int size = nums.size();
         int count = 0;
 
