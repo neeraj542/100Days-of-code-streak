@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
-//commemt
 
+//comment
 int main(){
     string s = "tour";
     // string s;
