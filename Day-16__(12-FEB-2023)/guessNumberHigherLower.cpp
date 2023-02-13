@@ -1,3 +1,8 @@
+// Problem Link: 
+// Platform Name:
+// Problem Number: 
+
+
 class Solution {
 public:
     int guessNumber(int n) {
