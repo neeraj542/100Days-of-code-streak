@@ -1,6 +1,7 @@
 // Problem Link: 
 // Platform Name: LeetCode
-// Problem Number: 
+// Problem Name: 374. Guess Number Higher or Lower
+// Problem-Level: Easy
 // Date-of-Solved: 12-Feb-2023
 
 class Solution {
