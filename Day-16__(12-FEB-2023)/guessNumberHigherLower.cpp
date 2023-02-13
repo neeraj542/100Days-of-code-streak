@@ -1,6 +1,7 @@
 // Problem Link: 
-// Platform Name:
+// Platform Name: LeetCode
 // Problem Number: 
+// Date-of-Solved: 12-Feb-2023
 
 class Solution {
 public:
