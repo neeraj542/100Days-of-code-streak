@@ -2,7 +2,7 @@
 // Problem Level: 
 // Problem Name: Binary Search
 // Problem Link:
-// Date on solved:
+// Date on solved: 08-Feb-2023
 
 #include <bits/stdc++.h>
 using namespace std;
