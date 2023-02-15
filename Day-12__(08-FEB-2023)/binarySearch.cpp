@@ -1,6 +1,6 @@
 // Platform Name: LeetCode
 // Problem Level: 
-// Problem Name:
+// Problem Name: Binary Search
 // Problem Link:
 // Date on solved:
 
