@@ -20,6 +20,7 @@ int main() {
             if(sameType >= n/2){
                 break;
             }
+            
             if(candyType[i] != candyType[i-1]){
                 sameType++;
             }  
