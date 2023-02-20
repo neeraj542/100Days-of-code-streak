@@ -1,3 +1,9 @@
+// Platform Name: LeetCode
+// Problem Level: 
+// Problem Name:
+// Problem Link:
+// Date on solved:
+
 #include <bits/stdc++.h>
 using namespace std;
 
