@@ -22,7 +22,7 @@ public:
 	    }
 	    return minimumIndex;
 	}
-};
+}; 
 
 //{ Driver Code Starts.
 
