@@ -17,9 +17,7 @@ int main()
         sort(nums.begin(),nums.end());
 
         for(int i=0; i<size; i++){
-                
             count = nums[(size-1)/2];
-                
         }
         // return count;
         cout << count << endl;
